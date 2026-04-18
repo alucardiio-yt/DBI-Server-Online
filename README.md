@@ -4,6 +4,8 @@ Servidor local ligero para instalar archivos NSP en Nintendo Switch usando DBI v
 
 Permite montar una carpeta con archivos NSP en tu PC y acceder a ella directamente desde la consola sin necesidad de cables, MTP o herramientas adicionales.
 
+¿Valoras mi Trabajo? Suscríbete al Patreon y obtén toda la biblioteca de NS sin anuncios, sin ads, todo listo para descargar. https://www.patreon.com/alucardio
+
 ---
 
 ## ¿Qué hace?
