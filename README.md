@@ -17,7 +17,6 @@ Permite montar una carpeta con archivos NSP en tu PC y acceder a ella directamen
 
 ## Características
 
-- Interfaz simple y directa
 - Selección de carpeta personalizada
 - Detección automática de IP local
 - Soporte de descargas
@@ -26,7 +25,6 @@ Permite montar una carpeta con archivos NSP en tu PC y acceder a ella directamen
   - Carpeta de NSP
   - Puerto
   - Auto inicio opcional
-- Icono y diseño visual personalizado
 
 ---
 
